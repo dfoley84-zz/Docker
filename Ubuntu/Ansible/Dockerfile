@@ -5,7 +5,10 @@ RUN apt update && \
     apt install software-properties-common -y && \
     apt-add-repository ppa:ansible/ansible && \
     apt update && \
+    apt-get -y install python && \
+    apt install software-properties-common
     apt install wget -y && \ 
+    apt-get install -y python-setuptools libssl-dev libffi-dev python-dev python-pip && \
     apt apt install ansible -y 
     
 RUN useradd -s /bin/bash ansible && \ 
@@ -18,6 +21,7 @@ RUN curl -L -O https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-6.
     systemctl enable filebeat && \ 
     systemctl start filebeat 
     
-    
+
+
     
     
