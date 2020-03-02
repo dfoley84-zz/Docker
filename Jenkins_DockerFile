@@ -1,5 +1,5 @@
 FROM jenkins/jenkins:lts
-MAINTAINER dfoley dfoley@qti.qualcomm.com
+MAINTAINER dfoley 
 
 ENV JAVA_OPTS="-Djenkins.install.runSetupWizard=false"
 
