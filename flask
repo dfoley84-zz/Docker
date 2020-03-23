@@ -10,7 +10,6 @@ RUN pip install wheel
 RUN apt install build-essential libssl-dev libffi-dev python3-dev -y
 RUN pip install --upgrade setuptools
 RUN pip install flask-mysql
-# We copy just the requirements.txt first to leverage Docker cache
 COPY ./requirements.txt /app/requirements.txt
 
 WORKDIR /app
