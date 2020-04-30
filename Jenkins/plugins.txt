@@ -1,0 +1,180 @@
+Active Choices Plug-in
+Active Directory plugin
+Ansible plugin
+Ant Plugin
+Apache HttpComponents Client 4.x API Plugin
+Authentication Tokens API Plugin
+Autofavorite for Blue Ocean
+Azure AD Plugin	
+Azure Commons Plugin
+Azure Credentials
+Azure Event Grid Build Notifier Plugin	
+Azure VM Agents
+Badge	
+Bitbucket Branch Source Plugin
+Bitbucket Pipeline for Blue Ocean
+Blue Ocean
+Blue Ocean Core JS
+Blue Ocean Pipeline Editor	
+bouncycastle API Plugin	
+Branch API Plugin	
+Build With Parameters
+CCM Plug-in
+Cloud Statistics Plugin
+CloudBees Docker Build and Publish plugin
+Command Agent Launcher Plugin	
+Common API for Blue Ocean
+Compact Columns
+Conditional BuildStep
+Config API for Blue Ocean
+Configuration as Code Plugin
+Credentials Binding Plugin
+Credentials Plugin
+Custom Job Icon plugin
+Dashboard for Blue Ocean
+database
+Design Language	
+Display URL API
+Display URL for Blue Ocean
+Docker Commons Plugin
+Docker Pipeline	
+Durable Task Plugin
+Email Extension Plugin
+Email Extension Template Plugin
+Events API for Blue Ocean
+Extended Choice Parameter Plug-In
+Extensible Choice Parameter plugin	
+External Monitor Job Type Plugin
+Favorite
+Folder Properties Plugin
+Folder-based Authorization Strategy
+Folders Plugin
+Git client plugin
+Git Pipeline for Blue Ocean
+Git plugin
+GIT server Plugin
+GitHub API Plugin
+GitHub Branch Source Plugin
+GitHub Organization Folder Plugin
+GitHub Pipeline for Blue Ocean
+GitHub plugin
+Google OAuth Credentials plugin
+Gradle Plugin
+Groovy
+Groovy Postbuild	
+Handy Uri Templates 2.x API Plugin
+HashiCorp Vault Plugin
+HTML Publisher plugin
+i18n for Blue Ocean
+Jackson 2 API Plugin
+Javadoc Plugin
+JavaScript GUI Lib: ACE Editor bundle plugin
+JavaScript GUI Lib: Handlebars bundle plugin
+JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI) plugin
+JavaScript GUI Lib: Moment.js bundle plugin
+JIRA Integration for Blue Ocean
+JIRA Pipeline Steps
+Jira plugin
+JIRA Trigger Plugin
+jira-ext Plugin
+Job and Node ownership plugin	
+jQuery plugin
+JSch dependency plugin
+JUnit Plugin
+JWT for Blue Ocean
+Kerberos SSO plugin
+Kubernetes CLI Plugin
+Kubernetes Client API Plugin
+Kubernetes Continuous Deploy Plugin
+Kubernetes Credentials Plugin	
+Kubernetes Credentials Provider
+Kubernetes plugin
+LDAP Plugin
+Lockable Resources plugin
+Mailer Plugin
+MapDB API Plugin
+Matrix Authorization Strategy Plugin
+Matrix Project Plugin
+Maven Integration plugin
+Mercurial plugin
+MySQL API Plugin
+MySQL Database Plugin
+Node Iterator API Plugin
+OAuth Credentials plugin
+Office 365 Connector
+Oracle Java SE Development Kit Installer Plugin
+OWASP Markup Formatter Plugin
+packer
+PAM Authentication plugin
+Parameterized Remote Trigger Plugin
+Parameterized Trigger plugin
+Personalization for Blue Ocean
+Pipeline
+Pipeline Graph Analysis Plugin
+Pipeline implementation for Blue Ocean
+Pipeline SCM API for Blue Ocean
+Pipeline timeline
+Pipeline: API
+Pipeline: Basic Steps
+Pipeline: Build Step
+Pipeline: Declarative
+Pipeline: Declarative Agent API
+Pipeline: Declarative Extension Points API
+Pipeline: GitHub Groovy Libraries
+Pipeline: Groovy
+Pipeline: Input Step
+Pipeline: Job
+Pipeline: Milestone Step
+Pipeline: Model API
+Pipeline: Multibranch
+Pipeline: Nodes and Processes
+Pipeline: REST API Plugin
+Pipeline: SCM Step
+Pipeline: Shared Groovy Libraries
+Pipeline: Stage Step
+Pipeline: Stage Tags Metadata
+Pipeline: Stage View Plugin
+Pipeline: Step API
+Pipeline: Supporting APIs
+Plain Credentials Plugin
+PowerShell plugin
+Pub-Sub "light" Bus
+Python Plugin
+Rebuilder
+REST API for Blue Ocean
+REST Implementation for Blue Ocean
+Role-based Authorization Strategy
+Run Condition Plugin
+SaltStack plugin
+SAML Plugin
+SCM API Plugin
+SCM Sync Configuration Plugin
+Script Security Plugin
+Security Inspector Plugin
+Server Sent Events (SSE) Gateway Plugin
+Service Now Plugin
+Simple Theme Plugin
+Slack Notification Plugin
+Snakeyaml API Plugin
+Splunk Plugin
+SQLite Database plugin
+SSH Agent Plugin	
+SSH Build Agents plugin
+SSH Credentials Plugin
+SSH Pipeline Steps
+SSH plugin
+Static Analysis Utilities
+Structs Plugin
+Subversion Plug-in
+Terraform Plugin
+Timestamper
+Adds timestamps to the Console Output
+Token Macro Plugin
+Trilead API Plugin
+URL Auth Plugin
+Validating String Parameter Plugin
+Variant Plugin
+Vmware vRealize CodeStream Plugin
+Web for Blue Ocean
+WMI Windows Agents Plugin
+Workspace Whitespace Replacement
