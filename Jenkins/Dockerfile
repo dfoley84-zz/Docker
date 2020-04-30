@@ -9,7 +9,11 @@ RUN apt install python3 python3-pip python-pip -y
 RUN python3 -m pip install --upgrade pip  
 RUN python -m pip install --upgrade pip 
 RUN apt install wget -y 
-RUN apt install nano -y 
+RUN apt install nano -y
+
+COPY ./requirements.txt /app/requirements.txt 
+RUN pip3 install -r requirements.txt
+
 RUN pip install pywinrm 
 RUN pip install pywinrm[credssp]
 RUN pip install -U requests-credssp
