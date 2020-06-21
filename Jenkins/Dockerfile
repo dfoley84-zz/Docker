@@ -8,7 +8,6 @@ RUN apt-get update && apt upgrade -y
 RUN apt-get install wget nano curl -y
 RUN apt-get install python3 python3-pip  -y
 RUN apt-get install software-properties-common -y
-RUN apt-get update
 
 COPY ./requirements.txt /
 RUN pip3 install -r /requirements.txt
