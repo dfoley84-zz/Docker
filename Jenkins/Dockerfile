@@ -14,5 +14,3 @@ RUN pip3 install -r /requirements.txt
 
 COPY ./plugins.txt /
 RUN /usr/local/bin/install-plugins.sh < /plugins.txt
-
-# SSL Certs
