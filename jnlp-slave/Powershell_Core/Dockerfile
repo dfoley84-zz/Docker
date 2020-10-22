@@ -11,10 +11,12 @@ RUN apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3B4FE6ACC0B21F32
 RUN apt update
 RUN apt install libicu55 -y
 RUN apt install powershell -y
-
+RUN apt-get -y update && apt-get install -y --no-install-recommends libgdiplus libc6-dev
 WORKDIR /root
 
 # Install VMware modules from PSGallery
 SHELL [ "pwsh", "-command" ]
 RUN Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
 RUN Install-Module VMware.PowerCLI,PowerNSX,PowervRA
+RUN Install-Module SqlServer,ImportExcel
+
